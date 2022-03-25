@@ -169,8 +169,8 @@ grid-row: 1/1;
 }
 .tabla-form-descripcion{
   display: grid;
-  grid-template-columns: repeat(2, 1fr 1fr);
-grid-template-rows: repeat(2, 40vh 1fr);
+  grid-template-columns: repeat(2, 1fr);
+grid-template-rows: repeat(2, 1fr);
 
 }
 .sub-descripcionYbutton{
@@ -181,8 +181,8 @@ grid-template-rows: repeat(2, 40vh 1fr);
   grid-column: 1/1;
   grid-row: 2/2;
   align-self: center;
-  margin-top: 25vh;
-  position: absolute;
+  
+  
 
 }
 .descripcion{
@@ -535,7 +535,12 @@ text-align:  left;
   max-width: 1200px;
   padding: 8px;
 }
+.tabla-form-descripcion{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+grid-template-rows: repeat(1, 1fr);
 
+}
 .sub-descripcionYbutton{
   grid-column: 1/1;
   grid-row: 1/1;
@@ -545,9 +550,6 @@ text-align:  left;
   grid-row: 1/1;
   align-self: center;
   width: 400vw;
-  position: relative;
-  top:-25vh;
-  left: 25vw;
 }
 
 .descripcion{
