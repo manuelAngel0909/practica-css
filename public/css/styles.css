@@ -348,8 +348,6 @@ width: 300px;
 text-align: center;
 position: relative;
 top: -150px;
-padding: 15px;
-margin: 10px
 }
 
 
@@ -363,28 +361,28 @@ margin: 10px
 
 .c-aloj{
   border: red solid 2px;
-  padding: 20px;
+  padding: 5px;
   width: 300px;
   margin: 10px 30px;
   background-image: radial-gradient(circle at -5.33% 29.86%, #fff8d2 0, #fdedc1 25%, #f7e2b0 50%, #f1d69f 75%, #eccb8f 100%);}
 
 .c-politicas{
   border: red solid 2px;
-  padding: 20px;
+  padding: 5px;
   width: 300px;
   margin: 10px 30px;
   background-image: radial-gradient(circle at -5.33% 29.86%, #fff8d2 0, #fdedc1 25%, #f7e2b0 50%, #f1d69f 75%, #eccb8f 100%);
 }
 .c-normas{
   border: red solid 2px;
-  padding: 20px;
+  padding: 5px;
   width: 500px;
   margin: 10px 30px;
   background-image: radial-gradient(circle at -5.33% 29.86%, #fff8d2 0, #fdedc1 25%, #f7e2b0 50%, #f1d69f 75%, #eccb8f 100%);
 }
 .c-garantia{
   border: red solid 2px;
-  padding: 20px;
+  padding: 5px;
   width: 500px;
   margin: 10px 30px;
   background-image: radial-gradient(circle at -5.33% 29.86%, #fff8d2 0, #fdedc1 25%, #f7e2b0 50%, #f1d69f 75%, #eccb8f 100%);
