@@ -1,0 +1,12 @@
+.arriba {
+    height:40vh;
+    width:100vw;
+    background-color: blueviolet;
+    
+    }
+    
+    .abajo {
+    background-color: brown;
+    height: 10%;
+    width:100vw;
+    }
